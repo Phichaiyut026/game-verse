@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "s1938090",
+    "appid": 1938090,
+    "title": "Call of Duty",
+    "genre": "ยิง",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 2299,
+    "discount": 0,
+    "rating": 3.34,
+    "reviewCount": 782769,
+    "release": "2022-10-27",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "colors": [
+      "#4a4f2a",
+      "#0d0f0a"
+    ],
+    "icon": "crosshair",
+    "featured": true,
+    "tags": [
+      "ออนไลน์",
+      "สงคราม",
+      "แคมเปญ"
+    ],
+    "desc": "ศูนย์รวมประสบการณ์ Call of Duty® รองรับทั้ง Modern Warfare® 4, Black Ops 7 และ Call of Duty®: Warzone™",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ca97243a998802a38c7cddf195cee327c5760353/ss_ca97243a998802a38c7cddf195cee327c5760353.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ca97243a998802a38c7cddf195cee327c5760353/ss_ca97243a998802a38c7cddf195cee327c5760353.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/6b8f4040a1e923f036e04d9eb21ecb0f866be57e/ss_6b8f4040a1e923f036e04d9eb21ecb0f866be57e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/6b8f4040a1e923f036e04d9eb21ecb0f866be57e/ss_6b8f4040a1e923f036e04d9eb21ecb0f866be57e.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/c6f865bd79b76a1fa50c59cd17a68d7837abf0b2/ss_c6f865bd79b76a1fa50c59cd17a68d7837abf0b2.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/c6f865bd79b76a1fa50c59cd17a68d7837abf0b2/ss_c6f865bd79b76a1fa50c59cd17a68d7837abf0b2.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/619503d5c40001a5e72717bedccbbca027084d94/ss_619503d5c40001a5e72717bedccbbca027084d94.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/619503d5c40001a5e72717bedccbbca027084d94/ss_619503d5c40001a5e72717bedccbbca027084d94.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/88dbb0eae312359216204ce3ab34b2f476177efd/ss_88dbb0eae312359216204ce3ab34b2f476177efd.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/88dbb0eae312359216204ce3ab34b2f476177efd/ss_88dbb0eae312359216204ce3ab34b2f476177efd.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s252490",
+    "appid": 252490,
+    "title": "Rust",
+    "genre": "เอาชีวิตรอด",
+    "platforms": [
+      "PC"
+    ],
+    "price": 799,
+    "discount": 50,
+    "rating": 4.47,
+    "reviewCount": 1404013,
+    "release": "2018-02-08",
+    "developer": "Facepunch Studios",
+    "publisher": "Facepunch Studios",
+    "colors": [
+      "#ce412b",
+      "#1a0f0c"
+    ],
+    "icon": "shield",
+    "featured": true,
+    "tags": [
+      "ผู้เล่นหลายคน",
+      "โอเพ่นเวิลด์",
+      "สร้างฐาน",
+      "PvP"
+    ],
+    "desc": "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife, other inhabitants, the environment, and other survivors. Do whatever it takes to last another night.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_271feae67943bdc141c1249aba116349397e9ba9.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_271feae67943bdc141c1249aba116349397e9ba9.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_e825b087b95e51c3534383cfd75ad6e8038147c3.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_e825b087b95e51c3534383cfd75ad6e8038147c3.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_0e646f1a70e5cb8eed00efef8adb9579d40d5b2e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_0e646f1a70e5cb8eed00efef8adb9579d40d5b2e.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69dc23d53163b755e809a562a377bd276154c70e/ss_69dc23d53163b755e809a562a377bd276154c70e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69dc23d53163b755e809a562a377bd276154c70e/ss_69dc23d53163b755e809a562a377bd276154c70e.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_1c2d0d1eefee54f0c67626c74eb21699bbb0ef52.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_1c2d0d1eefee54f0c67626c74eb21699bbb0ef52.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_d0fdacaeef5a28a7cee525fd73376adfe083c964.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_d0fdacaeef5a28a7cee525fd73376adfe083c964.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s107410",
+    "appid": 107410,
+    "title": "Arma 3",
+    "genre": "จำลองสถานการณ์",
+    "platforms": [
+      "PC"
+    ],
+    "price": 899,
+    "discount": 75,
+    "rating": 4.62,
+    "reviewCount": 295764,
+    "release": "2013-09-12",
+    "developer": "Bohemia Interactive",
+    "publisher": "Bohemia Interactive",
+    "colors": [
+      "#5a6b3a",
+      "#141810"
+    ],
+    "icon": "crosshair",
+    "featured": true,
+    "tags": [
+      "ทหาร",
+      "สมจริง",
+      "โอเพ่นเวิลด์",
+      "ผู้เล่นหลายคน"
+    ],
+    "desc": "Experience true combat gameplay in a massive military sandbox. Deploy with a wide variety of single- and multiplayer content, a massive arsenal of modern weapons and vehicles, and limitless opportunities for content creation. Authentic, diverse, open - Arma 3 sends you to war.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_e9220742c6b786efc9145c58ce7b276af891e9d5.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_e9220742c6b786efc9145c58ce7b276af891e9d5.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_089dfd05121614ca3a887f49e89c14fa210847ac.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_089dfd05121614ca3a887f49e89c14fa210847ac.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d6ac5531165a238499e1bf7ad71ee23dcfcbcf78.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d6ac5531165a238499e1bf7ad71ee23dcfcbcf78.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_1e3cd97e67e8bba23a6bb40d41a543b1b29c9b5a.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_1e3cd97e67e8bba23a6bb40d41a543b1b29c9b5a.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d705d125b0bf4e8d934c8743ef1a26e851fe6cf4.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d705d125b0bf4e8d934c8743ef1a26e851fe6cf4.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_f394156f7bd6f643c004d6810b63547277f44fb0.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_f394156f7bd6f643c004d6810b63547277f44fb0.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1874880",
+    "appid": 1874880,
+    "title": "Arma Reforger",
+    "genre": "จำลองสถานการณ์",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS5"
+    ],
+    "price": 1099,
+    "discount": 30,
+    "rating": 4.2,
+    "reviewCount": 58559,
+    "release": "2023-11-16",
+    "developer": "Bohemia Interactive",
+    "publisher": "Bohemia Interactive",
+    "colors": [
+      "#6b5a3a",
+      "#151210"
+    ],
+    "icon": "crosshair",
+    "featured": false,
+    "tags": [
+      "ทหาร",
+      "สมจริง",
+      "ผู้เล่นหลายคน"
+    ],
+    "desc": "Engage in massive combined arms battles, create and curate combat missions in real time, and shape your experience with endless community mods. Deploy into the Cold War and experience the most authentic and immersive military sandbox ever created.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_70d3b4416f7c191d01b96253957bee9b6cab47be.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_70d3b4416f7c191d01b96253957bee9b6cab47be.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_e89540e53a4969f3de49ad6238fe29ff859ecfd2.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_e89540e53a4969f3de49ad6238fe29ff859ecfd2.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_c09c59c3d65086cc4020fd55659cc5ffaaa79333.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_c09c59c3d65086cc4020fd55659cc5ffaaa79333.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_3f3ff3f68acb3194931fb6cffd4565325c98d833.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_3f3ff3f68acb3194931fb6cffd4565325c98d833.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_f7ea90e5ffd1c59453b358fa446eb0b1759ba9c7.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_f7ea90e5ffd1c59453b358fa446eb0b1759ba9c7.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_a05d4a7f125269a9e990b97b0dfac4e1e0ba8965.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_a05d4a7f125269a9e990b97b0dfac4e1e0ba8965.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s221100",
+    "appid": 221100,
+    "title": "DayZ",
+    "genre": "เอาชีวิตรอด",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 1499,
+    "discount": 50,
+    "rating": 4.12,
+    "reviewCount": 470324,
+    "release": "2018-12-13",
+    "developer": "Bohemia Interactive",
+    "publisher": "Bohemia Interactive",
+    "colors": [
+      "#3a4a3a",
+      "#0b0f0b"
+    ],
+    "icon": "ghost",
+    "featured": false,
+    "tags": [
+      "ซอมบี้",
+      "โอเพ่นเวิลด์",
+      "ผู้เล่นหลายคน"
+    ],
+    "desc": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_bf0e5d5538d95a1cb943a7963489ba4df2782942.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_bf0e5d5538d95a1cb943a7963489ba4df2782942.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_4b71f0ac633c88e8af8de1c4eec0b5b263f989cc.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_4b71f0ac633c88e8af8de1c4eec0b5b263f989cc.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_0487147f80e9350d9c655deb7f3d25b3876a1958.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_0487147f80e9350d9c655deb7f3d25b3876a1958.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_06f0e97dd31b322d38dfd137b268d793ff62f86f.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_06f0e97dd31b322d38dfd137b268d793ff62f86f.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_9517bb26b6811f70b5b19ece4bce3e90452378d3.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_9517bb26b6811f70b5b19ece4bce3e90452378d3.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_54729794426ffcfb74cb90176edd80b2225eb4fc.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_54729794426ffcfb74cb90176edd80b2225eb4fc.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s730",
+    "appid": 730,
+    "title": "Counter-Strike 2",
+    "genre": "ยิง",
+    "platforms": [
+      "PC"
+    ],
+    "price": 0,
+    "discount": 0,
+    "rating": 4.43,
+    "reviewCount": 9899570,
+    "release": "2012-08-21",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "colors": [
+      "#d9a441",
+      "#1b1b1b"
+    ],
+    "icon": "crosshair",
+    "featured": true,
+    "tags": [
+      "ฟรีทูเพลย์",
+      "อีสปอร์ต",
+      "PvP",
+      "แข่งขัน"
+    ],
+    "desc": "เป็นเวลากว่าสองทศวรรษแล้วที่ Counter-Strike ได้มอบประสบการณ์การแข่งขันอันยอดเยี่ยม ซึ่งกำเนิดขึ้นโดยผู้เล่นหลายล้านคนจากทั่วโลก และตอนนี้บทต่อไปของเรื่องราว CS กำลังจะเริ่มต้นขึ้นแล้ว นี่คือ Counter-Strike 2",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0/ss_9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0/ss_9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s578080",
+    "appid": 578080,
+    "title": "PUBG: BATTLEGROUNDS",
+    "genre": "ยิง",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 0,
+    "discount": 0,
+    "rating": 3.4,
+    "reviewCount": 2785139,
+    "release": "2017-12-21",
+    "developer": "PUBG Corporation",
+    "publisher": "KRAFTON, Inc.",
+    "colors": [
+      "#e2a33b",
+      "#1a140a"
+    ],
+    "icon": "crosshair",
+    "featured": false,
+    "tags": [
+      "ฟรีทูเพลย์",
+      "แบทเทิลรอยัล",
+      "ผู้เล่นหลายคน"
+    ],
+    "desc": "PUBG: BATTLEGROUNDS คือเกมยิงที่ผู้ชนะคือคนที่ยืนหยัดอยู่เป็นคนสุดท้าย และเป็นเกมที่สร้างความนิยมต่อเกมแนว Battle Royale ไปทั่วโลก ได้เปิดให้เข้าเล่นได้ฟรีแล้ว! กระโดดลงสู่แผนที่หลายรูปแบบ, ค้นหาอาวุธ และอุปกรณ์ แล้วเอาชีวิตรอดในพื้นที่เล่นที่จะลดขนาดลงเรื่อยๆ ทุกย่างก้าวอาจจะก้าวครั้งสุดท้ายของคุณ!",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/aa1c51a9b45c88e770b443d8d3cd28f3024b0760/ss_aa1c51a9b45c88e770b443d8d3cd28f3024b0760.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/aa1c51a9b45c88e770b443d8d3cd28f3024b0760/ss_aa1c51a9b45c88e770b443d8d3cd28f3024b0760.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/bf9b3de5896d4ec7ef9531938b26946cded81fdf/ss_bf9b3de5896d4ec7ef9531938b26946cded81fdf.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/bf9b3de5896d4ec7ef9531938b26946cded81fdf/ss_bf9b3de5896d4ec7ef9531938b26946cded81fdf.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/faa4f9f6caa9613f07fd1193a143f66e0fac489c/ss_faa4f9f6caa9613f07fd1193a143f66e0fac489c.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/faa4f9f6caa9613f07fd1193a143f66e0fac489c/ss_faa4f9f6caa9613f07fd1193a143f66e0fac489c.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/3ae78fac4c07e9a2e2955286014355d6b7f3c8c7/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/3ae78fac4c07e9a2e2955286014355d6b7f3c8c7/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/eb19c1ce924ff4689105242257b6d377ffe2e264/ss_eb19c1ce924ff4689105242257b6d377ffe2e264.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/eb19c1ce924ff4689105242257b6d377ffe2e264/ss_eb19c1ce924ff4689105242257b6d377ffe2e264.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1172470",
+    "appid": 1172470,
+    "title": "Apex Legends",
+    "genre": "ยิง",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "price": 0,
+    "discount": 0,
+    "rating": 3.71,
+    "reviewCount": 1071809,
+    "release": "2020-11-04",
+    "developer": "Respawn",
+    "publisher": "Electronic Arts",
+    "colors": [
+      "#c8392f",
+      "#1a0d0c"
+    ],
+    "icon": "crosshair",
+    "featured": false,
+    "tags": [
+      "ฟรีทูเพลย์",
+      "แบทเทิลรอยัล",
+      "ฮีโร่ชูตเตอร์"
+    ],
+    "desc": "Apex Legends คือเกมเล่นฟรีแนวฮีโรชูตเตอร์จาก Respawn Entertainment ที่ได้รับรางวัลมาแล้วมากมาย ฝึกใช้ตัวละครระดับตำนานที่เพิ่มขึ้นเรื่อยๆ และความสามารถอันทรงพลังของพวกเขาให้คล่องแคล่วแล้วค้นพบการเล่นเป็นทีมเชิงกลยุทธ์กับระบบเล่นเกมแบบใหม่ที่เป็นวิวัฒนาการขั้นต่อไปของเกมแนวฮีโรชูตเตอร์และแบตเทิลรอยัล",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/60fcaedb88ccf94df30281533d828b86c6ffb9b6/header_alt_assets_5.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2/ss_3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2/ss_3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d64ce54903a3ba6429c6e3189ad746a7db70ee3e/ss_d64ce54903a3ba6429c6e3189ad746a7db70ee3e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d64ce54903a3ba6429c6e3189ad746a7db70ee3e/ss_d64ce54903a3ba6429c6e3189ad746a7db70ee3e.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6593905f527d4b1bf01b0bb148b9c9a39616a2e4/ss_6593905f527d4b1bf01b0bb148b9c9a39616a2e4.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6593905f527d4b1bf01b0bb148b9c9a39616a2e4/ss_6593905f527d4b1bf01b0bb148b9c9a39616a2e4.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6/ss_d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6/ss_d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/4a30ba1dd184e8ebdbab3814ea3726008647ea17/ss_4a30ba1dd184e8ebdbab3814ea3726008647ea17.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/4a30ba1dd184e8ebdbab3814ea3726008647ea17/ss_4a30ba1dd184e8ebdbab3814ea3726008647ea17.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/f880e64654baad384f3afb9e4b0004e411770241/ss_f880e64654baad384f3afb9e4b0004e411770241.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/f880e64654baad384f3afb9e4b0004e411770241/ss_f880e64654baad384f3afb9e4b0004e411770241.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s570",
+    "appid": 570,
+    "title": "Dota 2",
+    "genre": "วางแผน",
+    "platforms": [
+      "PC"
+    ],
+    "price": 0,
+    "discount": 0,
+    "rating": 4.22,
+    "reviewCount": 2790178,
+    "release": "2013-07-09",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "colors": [
+      "#a3271c",
+      "#120808"
+    ],
+    "icon": "swords",
+    "featured": false,
+    "tags": [
+      "ฟรีทูเพลย์",
+      "MOBA",
+      "อีสปอร์ต"
+    ],
+    "desc": "ทุก ๆ วันผู้เล่นนับล้านทั่วโลกก้าวเข้าสู่สนามรบเพื่อสวมบทบาทเป็นหนึ่งในกว่าร้อยฮีโร่ของ Dota และไม่ว่าจะเป็นชั่วโมงที่ 10 ของการเล่นหรือชั่วโมงที่ 1,000 คุณจะค้นพบสิ่งใหม่ ๆ อยู่เสมอ ด้วยการอัปเดตสม่ำเสมอเพื่อให้แน่ใจว่าเกมเพลย์ คุณสมบัติ และฮีโร่นั้นพัฒนาต่อเนื่อง Dota 2 จึงถือกำเนิดขึ้นด้วยตัวเอง",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_ad8eee787704745ccdecdfde3a5cd2733704898d.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_ad8eee787704745ccdecdfde3a5cd2733704898d.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_7ab506679d42bfc0c0e40639887176494e0466d9.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_7ab506679d42bfc0c0e40639887176494e0466d9.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_c9118375a2400278590f29a3537769c986ef6e39.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_c9118375a2400278590f29a3537769c986ef6e39.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_f9ebafedaf2d5cfb80ef1f74baa18eb08cad6494.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_f9ebafedaf2d5cfb80ef1f74baa18eb08cad6494.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_27b6345f22243bd6b885cc64c5cda74e4bd9c3e8.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_27b6345f22243bd6b885cc64c5cda74e4bd9c3e8.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_b33a65678dc71cc98df4890e22a89601ee56a918.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_b33a65678dc71cc98df4890e22a89601ee56a918.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s3240220",
+    "appid": 3240220,
+    "title": "Grand Theft Auto V Enhanced",
+    "genre": "แอ็กชัน",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 959,
+    "discount": 50,
+    "rating": 4.33,
+    "reviewCount": 228790,
+    "release": "2025-03-04",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "colors": [
+      "#3d8f4a",
+      "#0c160e"
+    ],
+    "icon": "car",
+    "featured": true,
+    "tags": [
+      "โอเพ่นเวิลด์",
+      "อาชญากรรม",
+      "ผู้เล่นหลายคน"
+    ],
+    "desc": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f2e70b5823510daa062293ff0b03821e1dee2d37/ss_f2e70b5823510daa062293ff0b03821e1dee2d37.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f2e70b5823510daa062293ff0b03821e1dee2d37/ss_f2e70b5823510daa062293ff0b03821e1dee2d37.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/6959cc5d64cce82cb68a27457cfa46fb4d50f897/ss_6959cc5d64cce82cb68a27457cfa46fb4d50f897.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/6959cc5d64cce82cb68a27457cfa46fb4d50f897/ss_6959cc5d64cce82cb68a27457cfa46fb4d50f897.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/0231bf16835cd4f6d83523d76aa8d91cb2dfef9b/ss_0231bf16835cd4f6d83523d76aa8d91cb2dfef9b.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/0231bf16835cd4f6d83523d76aa8d91cb2dfef9b/ss_0231bf16835cd4f6d83523d76aa8d91cb2dfef9b.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/60690d0fdbd022ab1527ba6d080d42c1812a0f39/ss_60690d0fdbd022ab1527ba6d080d42c1812a0f39.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/60690d0fdbd022ab1527ba6d080d42c1812a0f39/ss_60690d0fdbd022ab1527ba6d080d42c1812a0f39.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1174180",
+    "appid": 1174180,
+    "title": "Red Dead Redemption 2",
+    "genre": "แอ็กชัน",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 1899,
+    "discount": 75,
+    "rating": 4.7,
+    "reviewCount": 923718,
+    "release": "2019-12-05",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "colors": [
+      "#a3271c",
+      "#1a0c08"
+    ],
+    "icon": "shield",
+    "featured": false,
+    "tags": [
+      "โอเพ่นเวิลด์",
+      "คาวบอย",
+      "เนื้อเรื่องเข้มข้น"
+    ],
+    "desc": "Arthur Morgan และ Van der Linde Gang เป็นพวกนอกรีตที่กำลังหลบหนีกฎหมาย เมื่อสายลับของรัฐบาลกลางและนักล่าเงินรางวัลต่างรวมตัวกัน แก๊งนี้จึงต้องทั้งปล้น ขโมย และต่อสู้เพื่อข้ามดินแดนอันขรุขระนี้ไปเพื่อเอาชีวิตตัวเองให้รอด",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1245620",
+    "appid": 1245620,
+    "title": "ELDEN RING",
+    "genre": "RPG",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 1790,
+    "discount": 0,
+    "rating": 4.72,
+    "reviewCount": 1157364,
+    "release": "2022-02-24",
+    "developer": "FromSoftware, Inc.",
+    "publisher": "FromSoftware, Inc.",
+    "colors": [
+      "#b39352",
+      "#15120b"
+    ],
+    "icon": "swords",
+    "featured": true,
+    "tags": [
+      "โซลส์ไลก์",
+      "โอเพ่นเวิลด์",
+      "แฟนตาซี"
+    ],
+    "desc": "เกมที่ผสมผสานระหว่างดาร์กแฟนตาซีกับแอ็คชัน RPG ซึ่งมาพร้อมกับแผนที่อันกว้างใหญ่และดันเจี้ยนแสนซับซ้อน พบกับเหล่าตัวละครที่มาพร้อมกับเจตนาซ่อนเร้นและเรื่องราวลึกลับ ให้ผู้เล่นได้เพลิดเพลินไปกับการวางแผนกลยุทธ์เพื่อไขปริศนาความลับดินแดนต้องสาปนี้",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/b496f01f6021cf722e94e465d6844342ae4e6b81/header_alt_assets_3_thai.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_943bf6fe62352757d9070c1d33e50b92fe8539f1.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_943bf6fe62352757d9070c1d33e50b92fe8539f1.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_dcdac9e4b26ac0ee5248bfd2967d764fd00cdb42.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_dcdac9e4b26ac0ee5248bfd2967d764fd00cdb42.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_3c41384a24d86dddd58a8f61db77f9dc0bfda8b5.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_3c41384a24d86dddd58a8f61db77f9dc0bfda8b5.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_e0316c76f8197405c1312d072b84331dd735d60b.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_e0316c76f8197405c1312d072b84331dd735d60b.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_ef61b771ee6b269b1f0cb484233e07a0bfb5f81b.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_ef61b771ee6b269b1f0cb484233e07a0bfb5f81b.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_b1b91299d7e4b94201ac840aa64de54d9f5cb7f3.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_b1b91299d7e4b94201ac840aa64de54d9f5cb7f3.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1091500",
+    "appid": 1091500,
+    "title": "Cyberpunk 2077",
+    "genre": "RPG",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 1799,
+    "discount": 70,
+    "rating": 4.48,
+    "reviewCount": 983384,
+    "release": "2020-12-09",
+    "developer": "CD PROJEKT RED",
+    "publisher": "CD PROJEKT RED",
+    "colors": [
+      "#f2e600",
+      "#1a0f1f"
+    ],
+    "icon": "glasses",
+    "featured": false,
+    "tags": [
+      "ไซเบอร์พังก์",
+      "โอเพ่นเวิลด์",
+      "เนื้อเรื่องเข้มข้น"
+    ],
+    "desc": "Cyberpunk 2077 เป็นเกมสวมบทบาทแนวแอคชั่นผจญภัยแบบโลกเปิดที่ดำเนินเรื่องในอนาคตอันมืดมนของไนท์ซิตี้ มหานครที่คลั่งในอำนาจ ความหรูหรา และการปรับแต่งร่างกายอย่างไม่หยุดหย่อน",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4eb068b1cf52c91b57157b84bed18a186ed7714b.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4eb068b1cf52c91b57157b84bed18a186ed7714b.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1086940",
+    "appid": 1086940,
+    "title": "Baldur's Gate 3",
+    "genre": "RPG",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 1799,
+    "discount": 30,
+    "rating": 4.87,
+    "reviewCount": 860354,
+    "release": "2023-08-03",
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "colors": [
+      "#8a5a2b",
+      "#120c08"
+    ],
+    "icon": "swords",
+    "featured": false,
+    "tags": [
+      "เทิร์นเบส",
+      "แฟนตาซี",
+      "Co-op"
+    ],
+    "desc": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_c73bc54415178c07fef85f54ee26621728c77504.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_c73bc54415178c07fef85f54ee26621728c77504.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_cf936d31061b58e98e0c646aee00e6030c410cda.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_cf936d31061b58e98e0c646aee00e6030c410cda.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_6b8faba0f6831a406ce015648958da9612d14dbb.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_6b8faba0f6831a406ce015648958da9612d14dbb.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_8fc5eba770b4a1639b31666908bdd2bbc1aa2ae4.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_8fc5eba770b4a1639b31666908bdd2bbc1aa2ae4.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s292030",
+    "appid": 292030,
+    "title": "The Witcher 3: Wild Hunt — Remastered",
+    "genre": "RPG",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "price": 1299,
+    "discount": 50,
+    "rating": 4.86,
+    "reviewCount": 898982,
+    "release": "2015-05-18",
+    "developer": "CD PROJEKT RED",
+    "publisher": "CD PROJEKT RED",
+    "colors": [
+      "#9b2c2c",
+      "#120a0a"
+    ],
+    "icon": "sword",
+    "featured": false,
+    "tags": [
+      "โอเพ่นเวิลด์",
+      "แฟนตาซี",
+      "เนื้อเรื่องเข้มข้น"
+    ],
+    "desc": "The Witcher 3: Wild Hunt — Remastered จะพาเกมสวมบทบาทที่ได้รับคำชมอย่างล้นหลามมาสู่ยุคสมัยใหม่ด้วยการอัปเกรดและการพัฒนามากมาย สวมบทบาทเป็นเกรอลท์แห่งริเวีย นักล่าสัตว์ประหลาดและออกเดินทางสู่ภารกิจเพื่อตามหาซิริ ลูกสาวบุญธรรมของคุณในโลกเปิดแฟนตาซีมืดสุดน่าตื่นตา",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/0a38e4d0d57f15934772dbe09b322d08132d5518/ss_0a38e4d0d57f15934772dbe09b322d08132d5518.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/0a38e4d0d57f15934772dbe09b322d08132d5518/ss_0a38e4d0d57f15934772dbe09b322d08132d5518.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0/ss_19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0/ss_19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e/ss_3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e/ss_3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0/ss_78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0/ss_78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/203487f667e4ac00baf482b1c93c87a2b830a6fc/ss_203487f667e4ac00baf482b1c93c87a2b830a6fc.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/203487f667e4ac00baf482b1c93c87a2b830a6fc/ss_203487f667e4ac00baf482b1c93c87a2b830a6fc.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s2358720",
+    "appid": 2358720,
+    "title": "Black Myth: Wukong",
+    "genre": "แอ็กชัน",
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "price": 1799,
+    "discount": 0,
+    "rating": 4.86,
+    "reviewCount": 1213105,
+    "release": "2024-08-19",
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "colors": [
+      "#c79a4a",
+      "#140f08"
+    ],
+    "icon": "sword",
+    "featured": false,
+    "tags": [
+      "โซลส์ไลก์",
+      "ตำนานจีน",
+      "ต่อสู้"
+    ],
+    "desc": "\"Black Myth: Wukong\" เป็นเกมแอ็กชันเล่นตามบทบาทที่อ้างอิงมาจากตำนานเทพนิยายจีน คุณจะได้สวมบทบาทเป็น \"ผู้รับลิขิตสวรรค์\" เหยียบย่างไปบนเส้นทางสู่ชมพูทวีปซึ่งเต็มไปด้วยภยันตรายและเรื่องน่าประหลาดใจ เพื่อค้นหาความจริงของตำนานเมื่อครั้งอดีต",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_86c4b7462bba219a0d0b89931a35812b9f188976.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_86c4b7462bba219a0d0b89931a35812b9f188976.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_d9391ab31a4d15dddf7ba4949bfa44f5d9170580.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_d9391ab31a4d15dddf7ba4949bfa44f5d9170580.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_524a39da392ee83dde091033562bc719d46b5838.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_524a39da392ee83dde091033562bc719d46b5838.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_968bbc9caceb7d798bd0c393e1e9b4c44ed6d835.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_968bbc9caceb7d798bd0c393e1e9b4c44ed6d835.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_415397426d4c939ebb8a93ac66831f28ee7199be.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_415397426d4c939ebb8a93ac66831f28ee7199be.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_63477e8ce2c0582b81c6ed576377d78e692b5642.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_63477e8ce2c0582b81c6ed576377d78e692b5642.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s553850",
+    "appid": 553850,
+    "title": "HELLDIVERS 2",
+    "genre": "ยิง",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 1290,
+    "discount": 25,
+    "rating": 4.03,
+    "reviewCount": 1165069,
+    "release": "2024-02-08",
+    "developer": "Arrowhead Game Studios",
+    "publisher": "PlayStation Publishing LLC",
+    "colors": [
+      "#e3c23b",
+      "#14120a"
+    ],
+    "icon": "crosshair",
+    "featured": false,
+    "tags": [
+      "Co-op",
+      "ไซไฟ",
+      "ผู้เล่นหลายคน"
+    ],
+    "desc": "แนวป้องกันสุดท้ายของกาแล็กซี เข้าร่วมเกณฑ์เป็นหนึ่งใน Helldivers แล้วไปร่วมต่อสู้เพื่ออิสรภาพท่ามกลางกาแล็กซีที่เต็มไปด้วยภยันตราย ในเกมยิงมุมมองบุคคลที่สามซึ่งทั้งรวดเร็ว บ้าคลั่ง และดุเดือดเกมนี้",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/aed08979e15f54798f287dd8820fb5838476b5fa/ss_aed08979e15f54798f287dd8820fb5838476b5fa.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/aed08979e15f54798f287dd8820fb5838476b5fa/ss_aed08979e15f54798f287dd8820fb5838476b5fa.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/71ef7c65fcf63ff974ce42150190c0420c66c72b/ss_71ef7c65fcf63ff974ce42150190c0420c66c72b.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/71ef7c65fcf63ff974ce42150190c0420c66c72b/ss_71ef7c65fcf63ff974ce42150190c0420c66c72b.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/6c8b61a7c63479b6f526d285af6687a362d5d7ae/ss_6c8b61a7c63479b6f526d285af6687a362d5d7ae.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/6c8b61a7c63479b6f526d285af6687a362d5d7ae/ss_6c8b61a7c63479b6f526d285af6687a362d5d7ae.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_0c79f56fc7be1bd0102f2ca1c92c8f0900daf4fb.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_0c79f56fc7be1bd0102f2ca1c92c8f0900daf4fb.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_33e684e9cb2517af1599f0ca2b57d65ee82c2e51.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_33e684e9cb2517af1599f0ca2b57d65ee82c2e51.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_8949ed7dd24a02d5ea13b08fc5c04fab400dc4bd.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/ss_8949ed7dd24a02d5ea13b08fc5c04fab400dc4bd.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1623730",
+    "appid": 1623730,
+    "title": "Palworld / พาลเวิลด์",
+    "genre": "เอาชีวิตรอด",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS5"
+    ],
+    "price": 590,
+    "discount": 30,
+    "rating": 4.78,
+    "reviewCount": 490930,
+    "release": "2026-07-09",
+    "developer": "Pocketpair",
+    "publisher": "Pocketpair",
+    "colors": [
+      "#3fa3d9",
+      "#0b1620"
+    ],
+    "icon": "gamepad",
+    "featured": false,
+    "tags": [
+      "สร้างฐาน",
+      "Co-op",
+      "เลี้ยงมอนสเตอร์"
+    ],
+    "desc": "เกม Openworld แนวเอาชีวิตรอดใหม่เอี่ยมที่รองรับผู้เล่นหลายคน ที่ผู้เล่นจะได้รวบรวมสิ่งมีชีวิตสุดพิศวงที่เรียกว่า “พาล” ในโลกอันกว้างใหญ่ โดยที่ผู้เล่นจะได้ใช้พวกเขาในการต่อสู้ สร้างสิ่งปลูกสร้าง ทำเกษตร หรือแม้แต่ใช้แรงงานในอุตสาหกรรม",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_f81b7c4f20be3b99f76a1415c4cdb9b444c99b97.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_f81b7c4f20be3b99f76a1415c4cdb9b444c99b97.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/648ed4266fc18f413292292741304ef648421c55/ss_648ed4266fc18f413292292741304ef648421c55.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/648ed4266fc18f413292292741304ef648421c55/ss_648ed4266fc18f413292292741304ef648421c55.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_b3cea7c9f04a67d784d4c6a0c157a11d6268b189.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_b3cea7c9f04a67d784d4c6a0c157a11d6268b189.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/cd7b46028d10c21db8fc8217192094d309efcebc/ss_cd7b46028d10c21db8fc8217192094d309efcebc.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/cd7b46028d10c21db8fc8217192094d309efcebc/ss_cd7b46028d10c21db8fc8217192094d309efcebc.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_06e27c15c7b4b10233c937b887cf6a6925c83009.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_06e27c15c7b4b10233c937b887cf6a6925c83009.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_a99fba5536acde781bd863cb3555c10b5b96c0ae.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_a99fba5536acde781bd863cb3555c10b5b96c0ae.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1326470",
+    "appid": 1326470,
+    "title": "Sons Of The Forest",
+    "genre": "เอาชีวิตรอด",
+    "platforms": [
+      "PC"
+    ],
+    "price": 590,
+    "discount": 71,
+    "rating": 4.54,
+    "reviewCount": 321396,
+    "release": "2024-02-22",
+    "developer": "Endnight Games Ltd",
+    "publisher": "Newnight ",
+    "colors": [
+      "#3a5a3a",
+      "#0a100a"
+    ],
+    "icon": "ghost",
+    "featured": false,
+    "tags": [
+      "สยองขวัญ",
+      "Co-op",
+      "สร้างฐาน"
+    ],
+    "desc": "Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_e6e3ab1badfb287a77fb6eef7b1589a35371496b.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_e6e3ab1badfb287a77fb6eef7b1589a35371496b.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_4fa5d260318f0aa37754b00c5dc10d1b7b9b9b1d.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_4fa5d260318f0aa37754b00c5dc10d1b7b9b9b1d.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2b67491ca913adea6953429e1a567824aaa0ed54.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2b67491ca913adea6953429e1a567824aaa0ed54.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_ba2c1f6e69c6c7d69f7965cbd4b78da59ec59d55.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_ba2c1f6e69c6c7d69f7965cbd4b78da59ec59d55.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2c537a8c689dd6b21643b8054a64646334ef7391.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2c537a8c689dd6b21643b8054a64646334ef7391.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_b05310f659a67129e9089fbb22e445b0998d6d1d.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_b05310f659a67129e9089fbb22e445b0998d6d1d.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s413150",
+    "appid": 413150,
+    "title": "Stardew Valley",
+    "genre": "จำลองสถานการณ์",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "price": 315,
+    "discount": 30,
+    "rating": 4.94,
+    "reviewCount": 1041860,
+    "release": "2016-02-26",
+    "developer": "ConcernedApe",
+    "publisher": "ConcernedApe",
+    "colors": [
+      "#7cc36b",
+      "#22577a"
+    ],
+    "icon": "wheat",
+    "featured": false,
+    "tags": [
+      "ทำฟาร์ม",
+      "ผ่อนคลาย",
+      "Co-op",
+      "พิกเซลอาร์ต"
+    ],
+    "desc": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_9ac899fe2cda15d48b0549bba77ef8c4a090a71c.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_9ac899fe2cda15d48b0549bba77ef8c4a090a71c.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_4fa0866709ede3753fdf2745349b528d5e8c4054.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_4fa0866709ede3753fdf2745349b528d5e8c4054.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_d836f0a5b0447fb6a2bdb0a6ac5f954949d3c41e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_d836f0a5b0447fb6a2bdb0a6ac5f954949d3c41e.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_10628b4a811c0a925a1433d4323f78c7017dbbe4.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_10628b4a811c0a925a1433d4323f78c7017dbbe4.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_6422d297347258086b389e3d5d9c0e0c698312e4.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_6422d297347258086b389e3d5d9c0e0c698312e4.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s105600",
+    "appid": 105600,
+    "title": "Terraria",
+    "genre": "ผจญภัย",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "price": 220,
+    "discount": 50,
+    "rating": 4.89,
+    "reviewCount": 1559294,
+    "release": "2011-05-16",
+    "developer": "Re-Logic",
+    "publisher": "Re-Logic",
+    "colors": [
+      "#4aa3df",
+      "#0e2a3d"
+    ],
+    "icon": "gamepad",
+    "featured": false,
+    "tags": [
+      "แซนด์บ็อกซ์",
+      "Co-op",
+      "พิกเซลอาร์ต"
+    ],
+    "desc": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_8c03886f214d2108cafca13845533eaa3d87d83f.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_8c03886f214d2108cafca13845533eaa3d87d83f.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_ae168a00ab08104ba266dc30232654d4b3c919e5.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_ae168a00ab08104ba266dc30232654d4b3c919e5.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_9edd98caaf9357c2f40758f354475a56e356e8b0.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_9edd98caaf9357c2f40758f354475a56e356e8b0.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_75ea9a7e39eb34b40efa1e6dfd2536098dc4734b.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_75ea9a7e39eb34b40efa1e6dfd2536098dc4734b.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_782374517c1792debd74d24856203b876eba3a5d.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_782374517c1792debd74d24856203b876eba3a5d.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_04dd9f0a5773b686a452ba480b951f83b3ed5061.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_04dd9f0a5773b686a452ba480b951f83b3ed5061.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1551360",
+    "appid": 1551360,
+    "title": "Forza Horizon 5",
+    "genre": "แข่งรถ",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS5"
+    ],
+    "price": 1899,
+    "discount": 60,
+    "rating": 4.57,
+    "reviewCount": 282267,
+    "release": "2021-11-08",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "colors": [
+      "#e86a92",
+      "#1a0d14"
+    ],
+    "icon": "car",
+    "featured": false,
+    "tags": [
+      "โอเพ่นเวิลด์",
+      "ผู้เล่นหลายคน",
+      "สมจริง"
+    ],
+    "desc": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_cf56e25a0290556ba83229eb0ab370d10be0407c.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_cf56e25a0290556ba83229eb0ab370d10be0407c.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_00f0090174380eeaf8753bd3d1028b6772c3aebf.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_00f0090174380eeaf8753bd3d1028b6772c3aebf.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_b65236b365315ebb6da6114ce42cd74b59cab3c8.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_b65236b365315ebb6da6114ce42cd74b59cab3c8.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_0a13a7ccd38e7c3e6a5f1720050732833b53b6a8.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_0a13a7ccd38e7c3e6a5f1720050732833b53b6a8.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_3654a5988db68f9b47740f9f6a9299682c365599.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_3654a5988db68f9b47740f9f6a9299682c365599.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_0bc32360d32b21abdf889422385cd753862dd73e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_0bc32360d32b21abdf889422385cd753862dd73e.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s227300",
+    "appid": 227300,
+    "title": "Euro Truck Simulator 2",
+    "genre": "จำลองสถานการณ์",
+    "platforms": [
+      "PC"
+    ],
+    "price": 408,
+    "discount": 75,
+    "rating": 4.9,
+    "reviewCount": 946250,
+    "release": "2012-10-12",
+    "developer": "SCS Software",
+    "publisher": "SCS Software",
+    "colors": [
+      "#2f6db3",
+      "#0b1626"
+    ],
+    "icon": "car",
+    "featured": false,
+    "tags": [
+      "ขับรถบรรทุก",
+      "ผ่อนคลาย",
+      "สมจริง"
+    ],
+    "desc": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/edbff61a062a49d1d97269e53b8afbffde05bb24/ss_edbff61a062a49d1d97269e53b8afbffde05bb24.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/edbff61a062a49d1d97269e53b8afbffde05bb24/ss_edbff61a062a49d1d97269e53b8afbffde05bb24.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/c610d985eb21cc22c26507b53cd843cfa0b3a00d/ss_c610d985eb21cc22c26507b53cd843cfa0b3a00d.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/c610d985eb21cc22c26507b53cd843cfa0b3a00d/ss_c610d985eb21cc22c26507b53cd843cfa0b3a00d.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/a944c7f801629bfa0cfb91fa7b23b4ff95e11753/ss_a944c7f801629bfa0cfb91fa7b23b4ff95e11753.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/a944c7f801629bfa0cfb91fa7b23b4ff95e11753/ss_a944c7f801629bfa0cfb91fa7b23b4ff95e11753.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/06aa11ece5d3303cfcfeafb3c81734258a7dd614/ss_06aa11ece5d3303cfcfeafb3c81734258a7dd614.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/06aa11ece5d3303cfcfeafb3c81734258a7dd614/ss_06aa11ece5d3303cfcfeafb3c81734258a7dd614.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/5dff1bca6580b5df288a4ad061e4f92f62f6a073/ss_5dff1bca6580b5df288a4ad061e4f92f62f6a073.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/5dff1bca6580b5df288a4ad061e4f92f62f6a073/ss_5dff1bca6580b5df288a4ad061e4f92f62f6a073.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s367520",
+    "appid": 367520,
+    "title": "Hollow Knight",
+    "genre": "แพลตฟอร์ม",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "price": 315,
+    "discount": 0,
+    "rating": 4.88,
+    "reviewCount": 563596,
+    "release": "2017-02-24",
+    "developer": "Team Cherry",
+    "publisher": "Team Cherry",
+    "colors": [
+      "#5d7a9c",
+      "#0a0e14"
+    ],
+    "icon": "shield",
+    "featured": false,
+    "tags": [
+      "เมทรอยด์เวเนีย",
+      "อินดี้",
+      "ยาก"
+    ],
+    "desc": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_5384f9f8b96a0b9934b2bc35a4058376211636d2.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_5384f9f8b96a0b9934b2bc35a4058376211636d2.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_d5b6edd94e77ba6db31c44d8a3c09d807ab27751.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_d5b6edd94e77ba6db31c44d8a3c09d807ab27751.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_a81e4231cc8d55f58b51a4a938898af46503cae5.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_a81e4231cc8d55f58b51a4a938898af46503cae5.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_62e10cf506d461e11e050457b08aa0e2a1c078d0.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_62e10cf506d461e11e050457b08aa0e2a1c078d0.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_bd76bd88bc5334ee56ae3d5f0d8dec4455e8e3b8.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_bd76bd88bc5334ee56ae3d5f0d8dec4455e8e3b8.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_33a645903d6dd9beec39f272a3daf57174a6cc26.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_33a645903d6dd9beec39f272a3daf57174a6cc26.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s393380",
+    "appid": 393380,
+    "title": "Squad",
+    "genre": "ยิง",
+    "platforms": [
+      "PC"
+    ],
+    "price": 818,
+    "discount": 50,
+    "rating": 4.25,
+    "reviewCount": 244918,
+    "release": "2020-09-23",
+    "developer": "Offworld",
+    "publisher": "Offworld",
+    "colors": [
+      "#6b6b4a",
+      "#121210"
+    ],
+    "icon": "crosshair",
+    "featured": false,
+    "tags": [
+      "ทหาร",
+      "สมจริง",
+      "ทีมเวิร์ก"
+    ],
+    "desc": "Squad is a tactical FPS that provides authentic combat experiences through teamwork, communication, and realistic combat. It bridges the gap between arcade shooter and military realism with 100-player battles, combined-arms warfare, and base building.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/0b19b50aabea356bd8f534fbe7d6db9bd227810a/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_646857af730262e7f6f92e67bf2d8b47bf0c662c.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_646857af730262e7f6f92e67bf2d8b47bf0c662c.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_0ca9f1167852de187a7f929da20421ddb08fc752.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_0ca9f1167852de187a7f929da20421ddb08fc752.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_a50882d54e8fdf8478bbbe5cd8df4bd086fc1a0f.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_a50882d54e8fdf8478bbbe5cd8df4bd086fc1a0f.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_b256c427c3dc178a04fb54c92d563aae12c0ea36.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_b256c427c3dc178a04fb54c92d563aae12c0ea36.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6b6aa0741b6e65f34b153f0e6468412e104dbc64.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6b6aa0741b6e65f34b153f0e6468412e104dbc64.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6fabf783d6897ad15486b2051c997d9f9a8f2ab0.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6fabf783d6897ad15486b2051c997d9f9a8f2ab0.1920x1080.jpg"
+      }
+    ]
+  },
+  {
+    "id": "s1144200",
+    "appid": 1144200,
+    "title": "Ready or Not",
+    "genre": "ยิง",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "price": 699,
+    "discount": 50,
+    "rating": 4.16,
+    "reviewCount": 348204,
+    "release": "2023-12-13",
+    "developer": "VOID Interactive",
+    "publisher": "VOID Interactive",
+    "colors": [
+      "#2a3a5a",
+      "#0a0d14"
+    ],
+    "icon": "crosshair",
+    "featured": false,
+    "tags": [
+      "ตำรวจ",
+      "วางแผน",
+      "Co-op"
+    ],
+    "desc": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations.",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg",
+    "portrait": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/library_600x900.jpg",
+    "shots": [
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/88aec4ee3fba8860070370032495e0c9ff87a607/ss_88aec4ee3fba8860070370032495e0c9ff87a607.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/88aec4ee3fba8860070370032495e0c9ff87a607/ss_88aec4ee3fba8860070370032495e0c9ff87a607.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/8003fd0791fbaaef24bb3da768603eca92449a4d/ss_8003fd0791fbaaef24bb3da768603eca92449a4d.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/8003fd0791fbaaef24bb3da768603eca92449a4d/ss_8003fd0791fbaaef24bb3da768603eca92449a4d.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_795edc39907b6c6aba8db40fcb34cc0eb27f5547.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_795edc39907b6c6aba8db40fcb34cc0eb27f5547.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/29c4fc0ed7925fb34a32cbc95c4519311420f439/ss_29c4fc0ed7925fb34a32cbc95c4519311420f439.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/29c4fc0ed7925fb34a32cbc95c4519311420f439/ss_29c4fc0ed7925fb34a32cbc95c4519311420f439.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e/ss_bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e/ss_bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e.1920x1080.jpg"
+      },
+      {
+        "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_f0e0b11fa6f1bf6b436f1e17cd3f72f956180405.600x338.jpg",
+        "full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_f0e0b11fa6f1bf6b436f1e17cd3f72f956180405.1920x1080.jpg"
+      }
+    ]
+  }
+]

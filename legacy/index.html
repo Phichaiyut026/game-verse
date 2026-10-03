@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GameVerse — ร้านขายเกมออนไลน์</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="#/" class="logo">🎮 <span>Game<b>Verse</b></span></a>
+      <form class="search" id="searchForm">
+        <input type="search" id="searchInput" placeholder="ค้นหาเกม, ประเภท, ผู้พัฒนา..." autocomplete="off">
+        <button type="submit" aria-label="ค้นหา">🔍</button>
+      </form>
+      <nav class="nav" id="nav"></nav>
+      <button class="menu-btn" id="menuBtn" aria-label="เมนู">☰</button>
+    </div>
+  </header>
+
+  <main id="app" class="container"></main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div>
+        <div class="logo">🎮 <span>Game<b>Verse</b></span></div>
+        <p class="muted">ร้านเกมดิจิทัลที่รวมเกมดังทุกแพลตฟอร์ม ได้คีย์ทันทีหลังชำระเงิน</p>
+      </div>
+      <div>
+        <h4>ร้านค้า</h4>
+        <a href="#/store">เกมทั้งหมด</a><a href="#/store?sale=1">โปรโมชั่น</a><a href="#/store?free=1">เกมฟรี</a>
+      </div>
+      <div>
+        <h4>บัญชี</h4>
+        <a href="#/library">คลังเกม</a><a href="#/orders">ประวัติการสั่งซื้อ</a><a href="#/wishlist">รายการที่อยากได้</a>
+      </div>
+      <div>
+        <h4>ช่วยเหลือ</h4>
+        <a href="#/help">คำถามที่พบบ่อย</a><a href="#/help">ติดต่อเรา</a>
+      </div>
+    </div>
+    <p class="container muted small">© 2026 GameVerse — เว็บไซต์เดโม ไม่มีการชำระเงินจริง</p>
+  </footer>
+
+  <div id="modal" class="modal hidden"></div>
+  <div id="toasts" class="toasts"></div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+# dependencies / build output
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+
+# environment variables (ห้ามขึ้น git — ใส่ API key / รหัสผ่านจริงไว้ที่นี่)
+.env*
+
+# logs
+npm-debug.log*
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/
